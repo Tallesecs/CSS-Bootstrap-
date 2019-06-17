@@ -1,0 +1,61 @@
+body {
+  background-image: url("mm2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Source Sans Pro;
+  padding-top: 70px;
+}
+
+.jumbotron {
+  background-image: url("mm3.png");
+   
+}
+
+h2 {
+  color: #DC143C;
+
+}
+
+.navbar-inverse {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#comida {
+  color: #DAA520;
+  font-style: italic;
+  font-size: 20px;
+  font-family: "Charm", cursive;
+  
+}
+
+#promocao {
+  color: #DCDCDC;
+  text-transform: UPPERCASE;
+
+}
+
+#formulario {
+  color: #DCDCDC !important;
+  
+}
+
+#social {
+  width: 20px;
+  font-size: 100px;
+  padding: 50px;
+  
+}
+
+#copyy {
+  align-content: center;
+  font-style: italic;
+}
+
+.fab {
+  font-size: 40px;
+  padding: 12px;
+}
+
+#video {
+  border: 0px solid #000000
+}
